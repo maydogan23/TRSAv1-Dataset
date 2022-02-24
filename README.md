@@ -2,7 +2,7 @@
 TRSAv1 (Turkish Sentiment Analysis Version 1) Dataset
 
 
-TRSAv1 (Turkish Sentiment Analysis Version 1) Dataset This data set has been produced to contribute to Turkish NLP studies. The dataset consists of a total of 150 thousand samples, 50 thousand negative, 50 thousand positive and 50 thousand neutral. It can be used in text classification and sentiment analysis studies by citing the related study.
+This dataset has been produced to contribute to Turkish NLP studies. The dataset consists of a total of 150 thousand samples, 50 thousand negative, 50 thousand positive and 50 thousand neutral. It can be used in text classification and sentiment analysis studies by citing the related study.
 
 Related Work
 
